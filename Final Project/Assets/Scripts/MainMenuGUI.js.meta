@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 26134e16e640fd444b49246cef58da79
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - beep: {instanceID: 0}
+  - menuSkin: {fileID: 11400000, guid: fc7c92a0f51963043837348130e2454e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

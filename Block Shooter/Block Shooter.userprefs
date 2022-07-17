@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Character Action\Assets\Prefab\Coin.js">
+    <Files>
+      <File FileName="..\Character Action\Assets\Prefab\Coin.js" Line="5" Column="45" />
+      <File FileName="..\Character Action\Assets\Prefab\SpikeBall.js" Line="5" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

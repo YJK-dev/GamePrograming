@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Block Shooter\Assets\Materials\Box.js">
+    <Files>
+      <File FileName="..\Block Shooter\Assets\Materials\Box.js" Line="30" Column="37" />
+      <File FileName="..\Block Shooter\Assets\Materials\BoxGenerator.js" Line="26" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
